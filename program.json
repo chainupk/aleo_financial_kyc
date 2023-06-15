@@ -1,0 +1,10 @@
+{
+    "program": "aleo_financial_kyc.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpAj2Tby5d6HojdCGLwRVjKL9X1L9U3yKpmcbSyzMhYrmU",
+        "address": "aleo1lwqjug2kz5ut3exs7vg0sl7wp2fvg58gu7w0yr0h7j28funu85zs5zhfgu"
+    },
+    "license": "MIT"
+}
